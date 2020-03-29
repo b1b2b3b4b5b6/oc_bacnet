@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "type_traits": "c",
+        "config.h": "c",
+        "get_data.h": "c",
+        "typeinfo": "c",
+        "cjson.h": "c",
+        "mdf_json.h": "c",
+        "object.h": "c",
+        "bo.h": "c",
+        "stddef.h": "c",
+        "types.h": "c",
+        "common.h": "c",
+        "pthread.h": "c",
+        "errno.h": "c",
+        "device.h": "c",
+        "bacdef.h": "c",
+        "handlers.h": "c",
+        "request.h": "c",
+        "initializer_list": "c",
+        "string_view": "c",
+        "utility": "c",
+        "array": "c",
+        "tuple": "c"
+    },
+    "C_Cpp.intelliSenseEngineFallback": "Disabled",
+    "terminal.integrated.shell.windows": "bash.exe"
+}
